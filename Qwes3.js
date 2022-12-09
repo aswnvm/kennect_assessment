@@ -27,5 +27,5 @@ function nextPrime(n) {
   }
   diff = next - n;
   if(flag == true)
-    alert(next + ," is the next closest prime number of the given prime number " + n + " and " + diff + " is the difference between them.")
+    alert(next + " is the next closest prime number of the given prime number " + n + " and " + diff + " is the difference between them.")
 }
